@@ -12,10 +12,7 @@
 ## Installation
 - npm install express
 - npm install fs
-## Usage
-    ```md
-    ![alt text](./public/assets/images/screenshot.png)
-    ```
+
 ## Credits
 Email: kalramayank810@gmail.com
 GitHub: MayankKalra96
