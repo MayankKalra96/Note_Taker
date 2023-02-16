@@ -12,10 +12,12 @@
 ## Installation
 - npm install express
 - npm install fs
+## Usage
+- Heroku app: https://test-test235.herokuapp.com/notes
 
 ## Credits
 Email: kalramayank810@gmail.com
-GitHub: MayankKalra96
+GitHub: https://github.com/MayankKalra96
 ## License
 MIT License Copyright (c) 
 - ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
